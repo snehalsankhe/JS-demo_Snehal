@@ -1,0 +1,19 @@
+{
+  "name": "js-demo-snehal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehalsankhe/JS-demo_Snehal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehalsankhe/JS-demo_Snehal/issues"
+  },
+  "homepage": "https://github.com/snehalsankhe/JS-demo_Snehal#readme"
+}
