@@ -2,7 +2,7 @@ const fs = require("fs");
 
 const asyncFunction = (err, data) => {
     if (err) throw err;
-    // Display the file content
+    // Display the data
     console.log("Data..........", data);
     fs.writeFile('./write.txt', data, (err) => {
         if (err) {
