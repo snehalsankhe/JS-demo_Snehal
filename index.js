@@ -21,3 +21,4 @@ const asyncFunction = (err, data) => {
 }
 
 fs.readFile('./read.txt', "utf8", asyncFunction);
+

@@ -1,0 +1,1 @@
+"In JavaScript, a promise is a good way to handle asynchronous operations. It is used to find out if the asynchronous operation is successfully completed or not.\r\n\r\nA promise may have one of three states.\r\n\r\n    Pending\r\n    Fulfilled\r\n    Rejected\r\n\r\n"
